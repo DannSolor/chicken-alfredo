@@ -1,0 +1,11 @@
+img {height: 250px;}
+.description{ text-align: justify
+}
+#cook-time{font-weight: bold; font-size: 20px; text-decoration: underline}
+.ingredients li{list-style: square;
+}
+p.time{color: gray}
+.external-link {color: SeaGreen;
+}
+.recipe-plus {font-family: "arial"; text-align: justify;}
+h1, h2, p, li, ol, ul {font-family: "arial";}
